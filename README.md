@@ -13,13 +13,22 @@ Dataset link : http://archive.ics.uci.edu/ml/datasets/Iris
 
 
 About Dataset
+
 The data set contains 3 classes with 50 instances each, and 150 instances in total, where each class refers to a type of iris plant.
 
 Class : Iris Setosa,Iris Versicolour, Iris Virginica
+
+
 Format for the data: (sepal_length, sepal_width, petal_length, petal_width)
+
 Machine Learning Algorithm Used :
+
 1.Supervised Learning-
-  - KNN Algorithm, Decision Tree
+
+- KNN Algorithm, Decision Tree
+
 2.Unsupervised Learning-
-  - K Mean Clustering
+
+- K Mean Clustering
+
 LinkedIn Link : linkedin.com/in/kumar-rajnandan
